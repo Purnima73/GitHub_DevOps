@@ -1,0 +1,7 @@
+
+git restore testing.py
+git status
+git commit -m "my first file"
+git config --global user.email "purnima673singh@gmail.com
+git commit -m "my first file"
+git branch
